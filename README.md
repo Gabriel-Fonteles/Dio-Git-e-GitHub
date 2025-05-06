@@ -1,7 +1,7 @@
 
 # DIO | Resumos Git e GItHub
 
-repositorio dpara armazenar resumos sobre Git e GItHub do curso Versionamento de codigo com Git e GItHub da [Digital Innovation One](https://www.dio.me/).
+Repositorio dpara armazenar resumos sobre Git e GItHub do curso Versionamento de codigo com Git e GItHub da [Digital Innovation One](https://www.dio.me/).
 
 ## 📚Documentação
 - [Documentação Git](https://git-scm.com/doc)
